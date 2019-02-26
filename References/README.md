@@ -35,3 +35,4 @@ void myfunc(){
 ```
 
 #### Chapter Two
+Nothing special, just an introductions about data types. wchar for Unicode, char for UTF-8
